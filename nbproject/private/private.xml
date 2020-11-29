@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/Abstract/SportsClub.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/Contracts/LeagueManager.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/Repositories/PlayersRepository.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/FootBallClub.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/Player.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/StoreManager/TeamStoreManager.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/Repositories/MatchRepository.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/PremierLeagueManager.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/Repositories/FixtureRepository.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/Abstract/StoreManager.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/StoreManager/MatchStoreManager.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/Match.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/Contracts/IFixtureRepository.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/Contracts/IFootBallClubRepository.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/Contracts/IPlayerRepository.java</file>
+            <file>file:/C:/Users/Keania/Documents/NetBeansProjects/LeagueManagerTest1/src/leaguemanagertest1/StoreManager/PlayerStoreManager.java</file>
+        </group>
+    </open-files>
+</project-private>
